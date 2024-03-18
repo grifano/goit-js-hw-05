@@ -2,9 +2,9 @@
 
 # Java Script
 
-## Module 4: Objects
+## Module 5: Array methods forEach(), map(), flatMap(), filter(), find(), every(), some(), reduce(), toSorted();
 
-### Homework 4
+### Homework 5
 
 ---
 
